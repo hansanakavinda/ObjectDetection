@@ -1,0 +1,8 @@
+ultralytics
+opencv-python
+numpy
+pillow
+tkinter
+
+# run this to install the dependencies
+# pip install -r requirements.txt
